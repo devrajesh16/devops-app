@@ -14,7 +14,6 @@ myapp/
 ├── Dockerfile
 ├── app.js
 └── package.json
-
 ## Build Docker Image
 
 docker build -t myapp .
