@@ -7,6 +7,7 @@ A simple Node.js web application containerized using Docker.
 - Node.js
 - Docker
 - GitHub
+- Linux
 
 ## Project Structure
 
